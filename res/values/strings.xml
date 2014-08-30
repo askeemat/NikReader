@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">NikReader</string>
+	<string name="title_activity_main">MainActivity</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="cannot_open_file_path">cannot open file path</string>
+	<string name="action_open_dir">Open Directory</string>
+	<string name="title_activity_choose_directory">ChooseDirectoryActivity</string>
+	<string name="message_choose_directory">Choose Directory.</string>
+	<string name="title_activity_reader">ReaderActivity</string>
+
+</resources>
